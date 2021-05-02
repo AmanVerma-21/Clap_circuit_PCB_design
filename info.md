@@ -1,5 +1,5 @@
 # Clap circuit
-This circuit allows you to make Electrical home equipments will work on the basis of clapping sound. It's useful for IOTs project. Here we are using Single Side copper clad board PCB([Printed Circuit Board](https://en.wikipedia.org/wiki/Printed_circuit_board))
+This circuit allows you to make Electrical home equipments will work on the basis of clapping sound. When sensor(mic) sense clapping sound and count specific number of  claps, it will generate output and by using this we can control on/off mode of equipment. It's useful for IOTs project. Here we are using Single Side copper clad board PCB([Printed Circuit Board](https://en.wikipedia.org/wiki/Printed_circuit_board)). I used [Kicad](https://www.kicad.org/) for designing the pcb layout.
 
 ## Required Components
 
